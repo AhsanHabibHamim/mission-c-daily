@@ -6,13 +6,9 @@
 
 | Day | Topic Covered          |
 |-----|------------------------|
-| 01  | Hello World Program    |
-|-----|------------------------|
+| 01  | Hello World            |
 | 02  | Input/Output in C      |
-|-----|------------------------|
 | 03  | If-Else Conditions     |
-|-----|------------------------|
-
 ---
 
 📍 By: Ahsan Habib Hamim  
