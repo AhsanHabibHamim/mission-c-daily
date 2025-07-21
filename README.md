@@ -4,7 +4,7 @@
 
 ## 📅 Progress Log
 
-| Day | Topic Covered          |
+| Day | Topic Covered         |
 |-----|------------------------|
 | 01  | Hello World            |
 | 02  | Input/Output in C      |
